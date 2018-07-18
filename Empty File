@@ -1,0 +1,43 @@
+-----------------------------17732527489902787602055200819
+Content-Disposition: form-data; name="id"
+
+WU_FILE_5
+-----------------------------17732527489902787602055200819
+Content-Disposition: form-data; name="name"
+
+Screenshot from 2018-03-12 14-57-22.png
+-----------------------------17732527489902787602055200819
+Content-Disposition: form-data; name="type"
+
+image/png
+-----------------------------17732527489902787602055200819
+Content-Disposition: form-data; name="lastModifiedDate"
+
+2018/7/16 ä¸å3:31:56
+-----------------------------17732527489902787602055200819
+Content-Disposition: form-data; name="size"
+
+4960
+-----------------------------17732527489902787602055200819
+Content-Disposition: form-data; name="mediatype"
+
+pic
+-----------------------------17732527489902787602055200819
+Content-Disposition: form-data; name="uploadmediarequest"
+
+{"UploadType":2,"BaseRequest":{"Uin":2101713402,"Sid":"yVsK/ti9DVK4PMh9","Skey":"@crypt_6e4cc82a_55a098312455508d9bea77d69c434548","DeviceID":"e257063698790560"},"ClientMediaId":1531726316921,"TotalLen":4960,"StartPos":0,"DataLen":4960,"MediaType":4,"FromUserName":"@23d46696a535a0faca5638bdef381395b3afc4e06287b06697fcf0e09c9407ec","ToUserName":"@89afd8343b550a1a58d396cf16972a5a1cb908c15a711100663561f6327e55b6","FileMd5":"7a8b4456d2e72d8aeb3bdb37b896abeb"}
+-----------------------------17732527489902787602055200819
+Content-Disposition: form-data; name="webwx_data_ticket"
+
+gSfD7NXYEKaawVcIL5yxgQv3
+-----------------------------17732527489902787602055200819
+Content-Disposition: form-data; name="pass_ticket"
+
+vx1r3mPKq7TWC+ibT+mFIyx2yXhKxOmAvqiaJiKJ4kcmMHeeyaSwqifxRrcGcNHA
+-----------------------------17732527489902787602055200819
+Content-Disposition: form-data; name="filename"; filename="Screenshot from 2018-03-12 14-57-22.png"
+Content-Type: image/png
+
+PNG
+
+
